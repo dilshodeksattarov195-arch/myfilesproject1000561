@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseeetch",
+        "uuid": 3497835,
+        "checksum": "36lbai"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
